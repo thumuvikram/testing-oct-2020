@@ -1,9 +1,12 @@
 maruthi
 
 tata
+<<<<<<< HEAD
 
 3-hector
 
 4-Renault
 
 5-AMG
+=======
+>>>>>>> parent of 4babbad... third commit
